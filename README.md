@@ -12,7 +12,7 @@ everquest, psychotherapy, ShieldAndroidTV, twentyonepilots, teslore, gopro, uBlo
 # Goal of the analysis
 
 1. Text Preprocessing (tokenization, removal of special character, digits and additional white spaces, stopword removal, lemmatization)
-2. Feature Extraction (using bag-of-words model - TF-IDF with unigrama and Bi-gram)
+2. Feature Extraction (using bag-of-words model - TF-IDF with unigram and Bi-gram)
 3. Model Generation : 3 types of classification models have been tried i.e. Multinomial Naive Bayes, Support Vector Machine and Random Forest.
 4. Test Data classification
 5. Model validation (metric used - accuracy)
